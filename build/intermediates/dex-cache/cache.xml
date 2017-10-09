@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\praful\AndroidStudioProjects\BluetoothChat\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\praful\AndroidStudioProjects\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_df54165816435256a52282b909e5afae8f2f7052\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\praful\AndroidStudioProjects\BluetoothChat\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="63abf2a76602305fa7dce25df4eb5135bf18ab55">
+        <dex dex="C:\Users\praful\AndroidStudioProjects\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8a98fdfd04a280c7e9ee4dff21cbfaf209d5ffeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\praful\.android\build-cache\9cc1cc83c715a2b568829199cd5157d626d3000d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="C:\Users\praful\AndroidStudioProjects\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2874d68cec823275bd5ef2f6d217fc95aa46a254\classes.dex" />
+    </item>
+
+</items>
